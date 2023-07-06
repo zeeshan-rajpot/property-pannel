@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
-import './bootstrap.min.css';
-import './icon.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import { BrowserRouter, Routes ,Route } from "react-router-dom";
 import Home from './Com/Home';
 import About from './Com/About';
