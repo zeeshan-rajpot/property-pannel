@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <filter id="Ellipse_2157" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Whatsapp" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Ellipse_2157)">
+      <circle id="Ellipse_2157-2" data-name="Ellipse 2157" cx="21" cy="21" r="21" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Group_9749" data-name="Group 9749" transform="translate(11.989 12.443)">
+      <path id="Path_9223" data-name="Path 9223" d="M157.476,84.914a8.58,8.58,0,0,0-7.516,12.72l-1.616,3.91a.385.385,0,0,0,.457.518l4.309-1.18a8.581,8.581,0,1,0,4.366-15.968Zm0,16.392a7.79,7.79,0,0,1-4.105-1.166.383.383,0,0,0-.3-.044l-3.712,1.016,1.388-3.358a.385.385,0,0,0-.023-.34,7.811,7.811,0,1,1,6.756,3.892Z" transform="translate(-148.315 -84.914)" fill="#ec6337"/>
+      <path id="Path_9224" data-name="Path 9224" d="M258.138,188.937l-1.861-.972a.385.385,0,0,0-.4.029l-1.569,1.136a10.535,10.535,0,0,1-1.418-1.248c-.006-.007-.013-.011-.019-.017s-.01-.012-.016-.017a6.638,6.638,0,0,1-.825-.934l1.163-1.605a.385.385,0,0,0,.029-.4l-.972-1.861a.385.385,0,0,0-.518-.164l-1.722.889a.385.385,0,0,0-.192.454,9.567,9.567,0,0,0,2.514,4.189,11.332,11.332,0,0,0,4.631,2.955.385.385,0,0,0,.454-.192l.889-1.722a.385.385,0,0,0-.164-.518Zm-7.49-4.634,1.092-.563.685,1.31-.86,1.188a9.556,9.556,0,0,1-.916-1.935Zm6.231,6.229a9.348,9.348,0,0,1-1.9-.939l1.155-.837,1.311.685Z" transform="translate(-245.334 -178.531)" fill="#ec6337"/>
+    </g>
+  </g>
+</svg>

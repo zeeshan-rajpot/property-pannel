@@ -1,0 +1,22 @@
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    display: block !important;
+    width: 100% !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    width: 73vw !important;
+}
+.submit {
+	background:linear-gradient(to bottom, #000000 5%, #000000 100%);
+	background-color:#000000;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:9px 57px;
+	text-decoration:none;
+    border: none;
+    text-align: center;
+}

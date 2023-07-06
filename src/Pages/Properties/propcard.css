@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px){
+	.heartbtn{
+        margin-left: 35rem;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+	.heartbtn{
+        margin-left: 45rem ;
+    }
+}
+
+#dropdown-menu {
+    display: none; /* Initially hide the dropdown menu */
+    position: absolute;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  #dropdown-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #dropdown-menu ul li {
+    cursor: pointer;
+  }
+  
+  
